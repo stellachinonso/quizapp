@@ -148,7 +148,7 @@ continue_btn.onclick = ()=>{
     
 }
 
-const timeDuration = 60
+const timeDuration = 600
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
